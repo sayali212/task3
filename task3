@@ -1,0 +1,75 @@
+***************** PAYROLL MANAGEMENT SYSTEM *****************  ::::::MENU::::::  
+1. Insert Employee  
+2. Calculate Salary  
+3. Generate Payslip  
+0. Exit  
+  
+Enter your choice: 1  
+Enter employee ID: 101  
+Enter employee name: RAM  
+Enter employee fixed salary: 3000  
+EMPLOYEE ADDED SUCCESSFULL!  
+  
+::::::MENU::::::  
+1. Insert Employee  
+2. Calculate Salary  
+3. Generate Payslip  
+0. Exit  
+  
+Enter your choice: 5  
+SORRY INVALID CHOICE... TRY AGAIN...  
+  
+::::::MENU::::::  
+1. Insert Employee  
+2. Calculate Salary  
+3. Generate Payslip  
+0. Exit  
+  
+Enter your choice: 1  
+Enter employee ID: 102  
+Enter employee name: GEETA  
+Enter employee fixed salary: 4000  
+EMPLOYEE ADDED SUCCESSFULL!  
+  
+::::::MENU::::::  
+1. Add Employee  
+2. Calculate Salary  
+3. Generate Payslip  
+0. Exit  
+  
+Enter your choice: 2  
+  
+::Employee ID 101::  
+Enter extra working hours : 2  
+Enter salary per hours: 600  
+  
+::Employee ID 102::  
+Enter extra working hours : 0  
+Enter salary per hours: 0  
+  
+SALARY CALCULATION COMPLETED!  
+  
+::::::MENU:::::: 
+1. Add Employee  
+2. Calculate Salary  
+3. Generate Payslip  
+0. Exit  
+Enter your choice: 3  
+  
+*************** All Employee Payslip ***************  Employee ID: 101  
+Name: RAM  
+Salary: $4200.00  
+*************************  
+Employee ID: 102  
+Name: GEETA  
+Salary: $4000.00  
+*************************  
+  
+::::::MENU::::::  
+1. Add Employee  
+2. Calculate Salary  
+3. Generate Payslip  
+0. Exit  
+Enter your choice: 0  
+  
+*********************PROGRAM EXIT*********************
